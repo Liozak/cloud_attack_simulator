@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+ENV/
+
+# Data & models
+data/
+datasets/
+models/
+*.h5
+*.joblib
+*.pkl
+*.ckpt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Secrets
+.env
